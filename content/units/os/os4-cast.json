@@ -109,7 +109,7 @@
       "reload": 45,
       "recoil": 3,
       "inaccuracy": 3,
-      "shootSound": "ShootAlt",
+      "shootSound": "shootAlt",
       "shake": 5,
       "shoot": {
         "shots": 4,
