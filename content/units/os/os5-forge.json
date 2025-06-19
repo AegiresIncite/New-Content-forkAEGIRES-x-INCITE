@@ -115,7 +115,7 @@
       "recoil": 3,
       "inaccuracy": 19,
       "shake": 1,
-      "shootSound": "missile",
+      "shootSound": "missileSmall",
       "ejectEffect": "casing2",
       "bullet": {
         "type": "MissileBulletType",
