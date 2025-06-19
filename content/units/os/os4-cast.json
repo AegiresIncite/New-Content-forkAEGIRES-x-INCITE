@@ -115,7 +115,6 @@
         "shots": 4,
         "shotDelay": 1
       },
-      "shootSound": "shoot",
       "top": true,
       "ejectEffect": "casing3",
       "bullet": {
